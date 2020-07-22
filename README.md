@@ -17,7 +17,7 @@ If you want to contact me, please contact with
 
 * CTF Player
   - Member of `KAIST GoN`. But, sometimes, particpated as different team.
-  - Check my [ctf-writeups](https://github.com/mdsnins/ctf-writeups)
+  - Check my [ctf-writeups](https://github.com/mdsnins/ctf-writeups) and [CTFtime](https://ctftime.org/user/39983)
 
 * CTF Publisher
   - [Codegate 2020 Preliminary](https://github.com/mdsnins/My-CTF-Challenges/tree/master/2020/Codegate-Qual)
@@ -29,7 +29,7 @@ If you want to contact me, please contact with
   - Working with private bug bounty programs currently.
    
 ### Developer
-* Software Development
+* Software Developer
   - Game-related things (private things)
     - Automation
     - Event managements
@@ -41,7 +41,7 @@ If you want to contact me, please contact with
     - Music chart analysis
     - Resource decryptions
 
-* Backend Development
+* Backend Developer
   - [SPACE\*IZ](https://wiz-one.co.kr/) : Fan community of IZ\*ONE
     - Google Drive integration
     - Authentication system
@@ -50,7 +50,7 @@ If you want to contact me, please contact with
     - User management
     - Vote   
    
-* Frontend developer
+* Frontend Developer
   - [SPACE\*IZ](https://wiz-one.co.kr/)
     - IZ\*VOIC : Special anniversary page
     - IZ\*ARK : Google Drive browsing 
