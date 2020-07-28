@@ -27,7 +27,11 @@ If you want to contact me, please contact with
 * Bug Bounty Programs
   - Attend Facebook's BountyCon 2019 in Singapore
   - Working with private bug bounty programs currently.
-   
+
+* Some others
+  - Member of KAIST CERT
+  - Lecturer of "Freashmen Seminar <Hacking Class>" of KAIST, 2018
+  
 ### Developer
 * Software Developer
   - Game-related things (private things)
