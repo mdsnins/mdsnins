@@ -13,7 +13,7 @@ If you want to contact me, please contact with
 ### Hacker
 * Hacker of KAIST GoN
   - Started from 2018
-  - Interested in Web security
+  - Interested in web security
 
 * CTF Player
   - Member of `KAIST GoN`. But, sometimes, particpated as different team.
@@ -23,6 +23,9 @@ If you want to contact me, please contact with
   - [Codegate 2020 Preliminary](https://github.com/mdsnins/My-CTF-Challenges/tree/master/2020/Codegate-Qual)
     - CSP
     - Renderer
+  - [Codegate 2020 Final](https://github.com/mdsnins/My-CTF-Challenges/tree/master/2020/Codegate-Final)
+    - Blackjack
+    - Public Library (unpublished)
 
 * Bug Bounty Programs
   - Attend Facebook's BountyCon 2019 in Singapore
@@ -30,7 +33,8 @@ If you want to contact me, please contact with
 
 * Some others
   - Member of KAIST CERT
-  - Lecturer of "Freashmen Seminar <Hacking Class>" of KAIST, 2018
+  - Lecturer of "Freashmen Seminar \<Hacking Class\>" of KAIST, 2018
+  - Player of KAIST-POSTECH Science War (Hacking) in 2018, 2020
   
 ### Developer
 * Software Developer
