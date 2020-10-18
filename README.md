@@ -12,8 +12,6 @@ If you want to contact me, please contact with
 
 ### Hacker
 * Hacker of KAIST GoN
-  - Started from 2018
-  - Interested in web security
 
 * CTF Player
   - Member of `KAIST GoN`. But, sometimes, particpated as different team.
@@ -26,6 +24,8 @@ If you want to contact me, please contact with
   - [Codegate 2020 Final](https://github.com/mdsnins/My-CTF-Challenges/tree/master/2020/Codegate-Final)
     - Blackjack
     - Public Library (unpublished)
+  - CyberOC '사이버작전경연대회' Qualification
+  - CyberOC '사이버작전경연대회' Final
 
 * Bug Bounty Programs
   - Attend Facebook's BountyCon 2019 in Singapore
