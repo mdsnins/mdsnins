@@ -18,14 +18,13 @@ If you want to contact me, please contact with
   - Check my [ctf-writeups](https://github.com/mdsnins/ctf-writeups) and [CTFtime](https://ctftime.org/user/39983)
 
 * CTF Publisher
-  - [Codegate 2020 Preliminary](https://github.com/mdsnins/My-CTF-Challenges/tree/master/2020/Codegate-Qual)
+  - [Codegate 2020 Preliminary](https://github.com/mdsnins/My-CTF-Challenges/tree/master/2020/Codegate-Qual) / 
+  [Final](https://github.com/mdsnins/My-CTF-Challenges/tree/master/2020/Codegate-Final)
     - CSP
     - Renderer
-  - [Codegate 2020 Final](https://github.com/mdsnins/My-CTF-Challenges/tree/master/2020/Codegate-Final)
     - Blackjack
     - Public Library (unpublished)
-  - CyberOC '사이버작전경연대회' Qualification
-  - CyberOC '사이버작전경연대회' Final
+  - CyberOC '사이버작전경연대회' Qualification / Final
   
 ### Developer
 
