@@ -33,4 +33,4 @@ If you want to contact me, please contact with
     - Google Drive integration
     - Authentication system
     - IZ\*VOIC : Special anniversary page
-  - [REBOOT\*IZ](https://reboot-iz.one/) : Fan project site of IZ\*ONE
+  - [프로젝트 평행우주](https://reboot-iz.one/) : Fan project of IZ\*ONE
