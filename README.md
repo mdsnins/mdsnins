@@ -6,10 +6,8 @@ If you want to contact me, please contact with
 * E-mail : `payload@kaist.ac.kr`
 
 ### Profile
-* Undergraduate Student in KAIST
-  - Undergraduate Research Student in [KAIST WSP Lab](https://wsp-lab.github.io/)
-  - Major in Computer Science
-  - Minor in Industrial Design
+* M.S. Student at KAIST WSP Lab.
+* B.S. in Computer Science (minor in Industridal Design) at KAISt
 * Graduated Busan Science High School
 
 ### Hacker
