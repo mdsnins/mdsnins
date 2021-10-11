@@ -1,11 +1,10 @@
-## Jihwan Kim
-Welcome to my ✨ _special_ ✨ profile :D
+# Jihwan Kim
 
-### Contact
+## Contact
 If you want to contact me, please contact with
 * E-mail : `payload@kaist.ac.kr`
 
-### Profile
+### Education
 * M.S. Student at KAIST WSP Lab.
 * B.S. in Computer Science (minor in Industridal Design) at KAIST
 * Graduated Busan Science High School
