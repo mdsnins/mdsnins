@@ -10,16 +10,15 @@ If you want to contact me, please contact with
 * Graduated Busan Science High School
 
 ### Hacker
-* Hacker of KAIST GoN
-
+* Hacker @ KAIST GoN
+* Security Researcher @ Zerocution
 * CTF Player ([CTFtime](https://ctftime.org/user/39983))
-
 * CTF Organizer
   - CODEGATE CTF 2020 Preliminary / Finals
   - CyberOC '사이버작전경연대회' 2019 Qualifications / Finals
   - CyberOC '사이버작전경연대회' 2020 Qualifications / Finals
   - Whitehat Contest '화이트햇콘테스트' 2021 Qualification
-  
+  - 
 ### Developer
 
 * Web Developer
