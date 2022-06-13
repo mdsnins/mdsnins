@@ -12,6 +12,12 @@ If you want to contact me, please contact with
 * B.S. in Computer Science (minor in Industridal Design) at KAIST
 * Graduated Busan Science High School
 
+### Contributes
+* [Content Security Policy Level 3](https://github.com/w3c/webappsec-csp/pull/540) Do not check callerRealm for eval (Reported via Chromium Bugs)
+* [PHP GH#8058](https://github.com/php/php-src/issues/8058) NULL Pointer dereference in mysqlnd
+* [PHP GH#8259](https://github.com/php/php-src/issues/8259) Fix datetime format string to follow POSIX spec in ftp_mdtm()
+* [Gnuboard5 #186](https://github.com/gnuboard/gnuboard5/issues/186)
+
 ### Hacker
 * Hacker @ KAIST GoN
 * Security Researcher @ Zerocution
