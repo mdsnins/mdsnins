@@ -17,6 +17,7 @@ If you want to contact me, please contact with
 * [PHP GH#8058](https://github.com/php/php-src/issues/8058) NULL Pointer dereference in mysqlnd
 * [PHP GH#8259](https://github.com/php/php-src/issues/8259) Fix datetime format string to follow POSIX spec in ftp_mdtm()
 * [Gnuboard5 #186](https://github.com/gnuboard/gnuboard5/issues/186)
+* [CVE-2022-31628](https://bugs.php.net/bug.php?id=81726) Denial of Service using quine gzip file over phar: wrapper
 
 ### Hacker
 * Hacker @ KAIST GoN
