@@ -31,6 +31,7 @@ If you want to contact me, please contact with
   - Domestic
     - WACON 2022 1st place
     - CCE 2022 3rd place
+    - CCE 2023 1st place
 * CTF Organizer
   - CODEGATE CTF 2020 Preliminary / Finals
   - CyberOC '사이버작전경연대회' 2019 Qualifications / Finals
