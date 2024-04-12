@@ -6,9 +6,10 @@ If you want to contact me, please contact with
 
 ### Researches
 * **[MobiSys]** HearMeOut: Detecting Voice Phishing Activities in Android
+* **[NDSS]** DiffCSP: Finding Browser Bugs in Content Security Policy Enforcement through Differential Testing
 
 ### Education
-* M.S. Student at KAIST WSP Lab.
+* M.S. in Computer Science at KAIST.
 * B.S. in Computer Science (minor in Industridal Design) at KAIST
 * Graduated Busan Science High School
 
@@ -20,6 +21,7 @@ If you want to contact me, please contact with
 * [CVE-2022-31628](https://bugs.php.net/bug.php?id=81726) Denial of Service using quine gzip file over phar: wrapper
 
 ### Hacker
+* Security Researcher @ ENKI
 * Web Hacker @ KAIST GoN
 * Security Researcher @ Zerocution
 * CTF Player ([CTFtime](https://ctftime.org/user/39983))
